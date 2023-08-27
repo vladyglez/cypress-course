@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "cypress": "^12.17.4",
-    "docker": "^1.0.0",
+    "cypress": "^4.2.0",
+    "docker": "^0.2.14",
     "docker-compose": "^0.23.17"
   },
   "name": "vladyglez",
